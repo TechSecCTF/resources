@@ -35,6 +35,8 @@
 ## Forensics
 * [Forensics Wiki](http://forensicswiki.org/)
 * [Wireshark](https://www.wireshark.org/)
+* [binwalk](http://binwalk.org/) is a tool for searching a given binary image for embedded files and executable code. Specifically, it is designed for identifying files and code embedded inside of firmware images.
+* [Sleuth Kit](http://www.sleuthkit.org/) is a collection of command line tools and a C library that allows you to analyze disk images and recover files from them. It is used behind the scenes in Autopsy and many other open source and commercial forensics tools.
 
 ## MIT Resources
 * 6.004 - Computation Structures (Covers Assembly)
