@@ -14,6 +14,7 @@
 * [arachni](http://www.arachni-scanner.com/) excellent web scanner utility and library
 
 ## Binary Exploitation
+* [REFE](https://github.com/devaneal/REFE) (Materials for the IAP 2017 Reverse Engineering for Exploitation course)
 * [microcorruption](http://microcorruption.com) (series of challenges teaching basics of binary exploits)
 * [RPI Course](https://github.com/RPISEC/MBE) (course at RPI about binary exploitation)
 * [Exploit exercises](https://exploit-exercises.com/) (a set of wargames)
