@@ -2,8 +2,8 @@
 
 ## General  
 * [Kali Linux VM](https://www.dropbox.com/s/4pdiubsd8t5jyec/Kali-Linux-2016.2-vm-amd64.7z?dl=0) with some nice tools on it ;)
-* [ctftime](ctftime.org) (Upcoming ctfs being held, links to writeups for old ctfs)
-* [overthewire](overthewire.org) (Wargames, basically ctfs that you can play anytime)
+* [ctftime](http://ctftime.org) (Upcoming ctfs being held, links to writeups for old ctfs)
+* [overthewire](http://overthewire.org) (Wargames, basically ctfs that you can play anytime)
 * [How to get started with CTFs](https://www.endgame.com/blog/how-get-started-ctf) (General reference guide)
 * [Pwntools](https://github.com/Gallopsled/pwntools) utilities for exploit development
 * [root-me challenges](https://www.root-me.org/?lang=en) in all CTF categories
