@@ -15,6 +15,7 @@
 * [arachni](http://www.arachni-scanner.com/) excellent web scanner utility and library
 
 ## Binary Exploitation
+* [REFE](https://github.com/devaneal/REFE) (Materials for the IAP 2017 Reverse Engineering for Exploitation course)
 * [microcorruption](http://microcorruption.com) (series of challenges teaching basics of binary exploits)
 * [RPI Course](https://github.com/RPISEC/MBE) (course at RPI about binary exploitation)
 * [Exploit exercises](https://exploit-exercises.com/) (a set of wargames)
@@ -35,7 +36,7 @@
 
 ## Forensics
 * [Forensics Wiki](http://forensicswiki.org/)
-* [Wireshark](https://www.wireshark.org/)
+* [Wireshark](https://www.wireshark.org/) is the de-facto tool for analyzing packet captures (pcap files).
 * [binwalk](http://binwalk.org/) is a tool for searching a given binary image for embedded files and executable code. Specifically, it is designed for identifying files and code embedded inside of firmware images.
 * [Sleuth Kit](http://www.sleuthkit.org/) is a collection of command line tools and a C library that allows you to analyze disk images and recover files from them. It is used behind the scenes in Autopsy and many other open source and commercial forensics tools.
 
@@ -44,4 +45,3 @@
 * 6.857 - Computer and Network Security (Covers Cryptography)
 * 6.858 - Computer Systems Security (Covers Binary Exploitation, Web Security)
 * 6.875 - Cryptography and Cryptanalysis (Very theoretical, mostly useless for ctfs)
-* MIT Reverse Engineering Club (Meets Wednesdays 7-10pm at [Beaverworks](https://beaverworks.ll.mit.edu/CMS/bw/))
