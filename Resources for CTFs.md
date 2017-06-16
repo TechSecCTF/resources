@@ -7,6 +7,8 @@
 * [How to get started with CTFs](https://www.endgame.com/blog/how-get-started-ctf) (General reference guide)
 * [Pwntools](https://github.com/Gallopsled/pwntools) utilities for exploit development
 * [root-me challenges](https://www.root-me.org/?lang=en) in all CTF categories
+* [ctf.tf](https://http://ctf.tf/) CTF Binary challenges
+* [reversing.ctf](https://reversing.ctfd.io/challenges) Reversing challenges
 
 ## Web Security
 * [natas](http://overthewire.org/wargames/natas) (a wargame on overthewire all about web security)
